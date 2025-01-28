@@ -30,7 +30,7 @@ Visualization: Dataset distribution charts, model accuracy plots, and heatmaps.
 Model Deployment: Includes API integration for serving predictions.
 Installation
 
-Clone the repository: https://github.com/Mahatir-Ahmed-Tusher/Acute-Lymphblastic-Leukemia-Diagnosis-Using-Vision-Transformer.git
+Clone the repository: https://github.com/SaketChoudary01/Acute-Lymphblastic-LeukemiaDiagnosis-Using-Vision-Transformer.git
 
 # Requirements
 Following commands have to be installed in your system: \
